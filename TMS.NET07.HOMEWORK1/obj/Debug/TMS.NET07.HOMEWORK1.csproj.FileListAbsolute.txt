@@ -1,0 +1,7 @@
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\bin\Debug\TMS.NET07.HOMEWORK1.exe.config
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\bin\Debug\TMS.NET07.HOMEWORK1.exe
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\bin\Debug\TMS.NET07.HOMEWORK1.pdb
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\obj\Debug\TMS.NET07.HOMEWORK1.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\obj\Debug\TMS.NET07.HOMEWORK1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\obj\Debug\TMS.NET07.HOMEWORK1.exe
+C:\Users\Artem\Desktop\Lisik\c#\TMS.NET07.HOMEWORK1\TMS.NET07.HOMEWORK1\obj\Debug\TMS.NET07.HOMEWORK1.pdb
